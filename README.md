@@ -1,5 +1,5 @@
 ### Hi there, you can call me Bill. 👋
 
-- 🔭 I’m currently working [Prefeitura de Belo Horizonte](https://prefeitura.pbh.gov.br/)
-- 📫 How to reach me: gabrielvazdemelo@gmail.com
+- :office: Working in [Prefeitura de Belo Horizonte](https://prefeitura.pbh.gov.br/)
+- :outbox_tray: Get in touch: gabrielvazdemelo@gmail.com
 
