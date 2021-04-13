@@ -1,5 +1,5 @@
 ### Hi there, you can call me Bill. 👋
 
-- :office: Working in [Prefeitura de Belo Horizonte](https://prefeitura.pbh.gov.br/)
+- :office: Working in [ONU-Habitat Brasil](https://unhabitat.org/)
 - :outbox_tray: Get in touch: gabrielvazdemelo@gmail.com
 
